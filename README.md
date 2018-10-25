@@ -40,7 +40,7 @@
  |                                                                      |
  +======================================================================+
 --->
-Apache Commons JEXL
+Apache Commons JEXL（类似于QLExpress的一款文本代码解析执行引擎）
 ===================
 
 [![Build Status](https://travis-ci.org/apache/commons-jexl.svg?branch=trunk)](https://travis-ci.org/apache/commons-jexl)
